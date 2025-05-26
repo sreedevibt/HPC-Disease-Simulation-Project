@@ -1,0 +1,7 @@
+Day,Population,Susceptible,Infectious,Recovered,Vaccinated
+74,Deggendorf,660,1,2939,400
+74,Regensburg,3851,1,6648,4500
+75,Deggendorf,660,1,2939,400
+75,Regensburg,3851,1,6648,4500
+76,Deggendorf,660,0,2940,400
+76,Regensburg,3851,0,6649,4500

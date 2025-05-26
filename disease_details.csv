@@ -1,0 +1,13 @@
+Day,Population,Susceptible,Infectious,Recovered,Vaccinated
+42,Deggendorf,774,2,2824,400
+42,Regensburg,2953,1,50,11996
+43,Deggendorf,773,3,2824,400
+43,Regensburg,2953,1,50,11996
+44,Deggendorf,771,4,2825,400
+44,Regensburg,2953,0,51,11996
+45,Deggendorf,771,3,2826,400
+45,Regensburg,2953,0,51,11996
+46,Deggendorf,771,2,2827,400
+46,Regensburg,2953,0,51,11996
+47,Deggendorf,771,0,2829,400
+47,Regensburg,2953,0,51,11996
